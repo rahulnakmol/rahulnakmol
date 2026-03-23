@@ -16,7 +16,7 @@
 
 **Microsoft Enterprise Architect** out of Bengaluru, India. 18 years deep in the Microsoft stack — from the Infosys trenches to leading a **$2M agentic AI practice** at KPMG's delivery network. I've shipped Dynamics 365 platforms for cities, built AI triage systems for global insurers, and told C-suite executives their **$35M problem** had a solution. It did.
 
-Currently two levels below the CEO at AMTRA Solutions, responsible for AI solution architecture, governance, and delivery excellence across 100+ professionals. I operate at the intersection of **strategic architecture** and **hands-on engineering** — because diagrams don't deploy themselves.
+Currently two levels below the CEO at leading Advisory firm, responsible for AI solution architecture, governance, and delivery excellence across 100+ professionals. I operate at the intersection of **strategic architecture** and **hands-on engineering** — because diagrams don't deploy themselves.
 
 ---
 
@@ -147,7 +147,7 @@ Currently two levels below the CEO at AMTRA Solutions, responsible for AI soluti
 <br/>
 
 > **2024 – Present** | **Enterprise Architect, AI & Automation Leader** @ AMTRA Solutions (KPMG Delivery Network)
-> *Bengaluru, India* — Built the agentic AI practice from zero to $2M. Leading 100+ professionals. Reports two levels below CEO. Designed multi-agent orchestration for a global insurer. Managing $8M+ pipeline across 20+ AI engagements. AI readiness assessments for C-suite stakeholders across KPMG member firms in Australia, Canada, and the US.
+> *Bengaluru, India* — Built the agentic AI practice from zero to $2M. Leading 100+ professionals. Reports two levels below CEO. Designed multi-agent orchestration for a global insurer. Managing $8M+ pipeline across 20+ AI engagements. AI readiness assessments for C-suite stakeholders across member firms in Australia, Canada, and the US.
 
 > **2023 – 2024** | **Senior Solutions Architect** @ AMTRA Solutions
 > *Toronto, Canada* — City of Calgary's $14M Dynamics 365 CRM transformation. Case management and citizen engagement platform supporting multiple departments. Cross-agency integration connecting Police, Fire, Social Services via multi-tenant service bus architecture. 100K+ annual cases.
